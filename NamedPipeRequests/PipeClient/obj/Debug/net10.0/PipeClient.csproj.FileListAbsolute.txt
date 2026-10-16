@@ -1,0 +1,14 @@
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\bin\Debug\net10.0\PipeClient.exe
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\bin\Debug\net10.0\PipeClient.deps.json
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\bin\Debug\net10.0\PipeClient.runtimeconfig.json
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\bin\Debug\net10.0\PipeClient.dll
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\bin\Debug\net10.0\PipeClient.pdb
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfoInputs.cache
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.AssemblyInfo.cs
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.dll
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\refint\PipeClient.dll
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.pdb
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\PipeClient.genruntimeconfig.cache
+C:\Users\n9854\Desktop\NamedPipeRequests\PipeClient\obj\Debug\net10.0\ref\PipeClient.dll
